@@ -1327,7 +1327,6 @@ table#computers td {
 .dashboard table#projectstatus .job-status-grey td,
 .dashboard table#projectstatus .job-status-nobuilt td,
 .dashboard table#projectstatus .job-status- td {
-  font-size: 2em;
   vertical-align: middle;
 }
 .dashboard table#projectstatus.stripped-odd tr:nth-child(even).job-status-red-anime,
